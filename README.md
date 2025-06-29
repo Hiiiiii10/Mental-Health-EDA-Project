@@ -1,1 +1,14 @@
 # Mental-Health-EDA-Project
+This project focuses on analyzing mental health conditions among individuals working in the technology industry, using survey data collected from tech workers across various countries. The primary goal is to understand how mental health issues are distributed across demographic groups and how workplace environments affect an individual’s likelihood to seek help or receive support.
+
+The dataset includes variables like age, gender, country, work type (remote or not), company size, availability of mental health benefits, openness to mental health discussions, and whether individuals have sought treatment. With these factors, an Exploratory Data Analysis (EDA) was performed using Univariate, Bivariate, and Multivariate (UBM) techniques.
+
+Univariate analysis showed that most survey participants are between 25–35 years of age and predominantly male. Most respondents come from the United States, indicating that results may be more representative of Western workplace cultures. Many people have sought treatment for mental health issues, suggesting mental health problems are not rare in the tech industry.
+
+Bivariate analysis revealed how different variables interact. For instance, older individuals were more likely to seek treatment, and people who experienced interference in their work due to mental health were more likely to seek help. Gender also played a role — females and gender minorities showed slightly higher treatment-seeking behavior than males. People working in larger organizations reported better access to care options and benefits, while smaller companies often lacked these resources.
+
+Multivariate analysis deepened this understanding by looking at three or more variables at a time. For example, comparing age, gender, and treatment status helped reveal that younger males were less likely to seek treatment. A comparison of country, remote work status, and availability of mental health benefits showed big differences between countries, indicating that workplace mental health support is not consistent across regions.
+
+From a business perspective, this analysis highlights several important takeaways. Many employees are unsure whether their companies offer mental health benefits, which shows a gap in communication from employers. Supervisor and coworker support strongly influence whether someone feels safe talking about mental health. Companies that do not actively support employee well-being may face lower productivity, higher turnover, and a more stressed workforce.
+
+In conclusion, this EDA project helps us understand not only where mental health issues are most frequent but also which workplace factors encourage or discourage individuals from seeking help. Companies that take this data seriously can design better mental health policies, improve employee satisfaction, and promote a healthier work culture.
